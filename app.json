@@ -1,7 +1,6 @@
 {
   "pages": [
-    "run",
-    "history"
+    "run"
   ],
   "window": {
     "backgroundTextStyle": "light",
